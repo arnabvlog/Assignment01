@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+.a{
+    text-decoration: none;
+    color: aqua;
+    font-style: italic;
+    font-weight: bolder;
+}
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 55%, rgba(0,151,255,1) 100%);
+}
+.body{
+    font-family: serif;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    color: #fff;
+}
+.home{
+    text-align: center;
+    font-size: 30px;
+}
+.home p{
+    font-size: 20px;
+    padding: 20px 200px;
+    
+}
+.skill{
+    font-size: 20px;
+    
+}
+.img{
+    margin: 20px auto;
+}
+.img img{
+    height: 250px;
+    display: inline-block;
+}
+.menu ul li{
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.menu ul li a{
+    padding: 20px 20px;
+    background: white;
+    text-align: left;
+    text-decoration: none;
+    font-size: 20px;
+    color: #000;
+}
+
+table, th {
+  border: 1px solid #fff;
+}
+th, td {
+  padding: 15px;
+  font-size: 20px;
+  font-family: serif;
+}
+#menu{
+    margin-bottom: 80px;
+}
+#info{
+    margin-bottom: 80px;
+}
+.info h1{
+    font-size: 30px;
+    padding-bottom: 25px;
+}
+.hob h1{
+    font-size: 30px;
+    padding-bottom: 25px;
+}
+#hob{
+    margin-bottom: 80px;
+}
+.hob p{
+    font-size: 20px;
+    padding-right: 400px;
+}
+.hob img{
+    height: 300px;
+    padding: 30px;
+}
+.crs h1{
+    font-size: 30px;
+    padding-bottom: 25px;
+}
+.crs p{
+    font-size: 20px;
+    padding-right: 400px;
+}
+.crs a {
+ padding: 10px 10px;
+    background: white;
+    text-align: left;
+    text-decoration: none;
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 20px;
+    display:flex;
+}
+.date{
+    text-align: center;
+    margin-bottom:15px;
+}
